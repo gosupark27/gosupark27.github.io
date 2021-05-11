@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Josh and I am a software apprentice at Clean Coders! This is my first ever blog site, so this site will be constantly evloving as I continue to learn and grow as a developer.  
+Hello, my name is Josh and I am a software apprentice at Clean Coders! Since this is my first-ever blog site you can expect this site to be constantly evolving as I continue to learn and grow as a developer.  
 
 ### Hobbies
 
