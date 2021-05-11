@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1, Day 1
+title: First Blog Post
 ---
 
 Hello World! This is my first blog post and I am excited to start my blogging journey as a way to document my journey of my apprenticeship at Clean Coders. Mr. Tom Preston-Werner succinctly summarizes the joy and benefits of writing, especially a blog post: "the act of transforming ideas into words is an amazingly efficient way to solidify and refine your thoughts about a given topic". 
