@@ -36,6 +36,7 @@ fatal: Could not read from remote repository.``` I received this error because I
 - I found this pretty in-depth [tutorial on Clojure](https://www.youtube.com/watch?v=zFPiPBIkAcQ&t=477s), so when I get the chance I would like to go through the entire video and probably take notes on it as well. 
 - Continue to familiarize myself with linux mint & **the terminal**. (The terminal is a friend, not a foe)
 - Try to work on the blog post throughout the day and as I face challenges or make breakthroughs I can write it into my blog. This will help me remember what happened throughout the day and keep the post more organized. 
+- Clone this repo so I can blog locally in my favorite editor. 
 
 
 
