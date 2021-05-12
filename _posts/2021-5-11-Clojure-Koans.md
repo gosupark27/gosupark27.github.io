@@ -27,17 +27,30 @@ I am feeling a bit fatigued from today's session mostly from not taking breaks i
 
 ## Today's Tasks
 
-1. Playing [poker!](https://poker.cleancoders.com/)
+1. Playing [poker!](https://poker.cleancoders.com/) - It was cool to use an internal tool developed at Clean Coders to make an estimate on how long it would take for me to complete a user story, which in this case was finishing all 27 koans. 
 2. Met up with Gina. 
 3. Work on Clojure Koans. 
 
 ## Challenges
-* Estimating how much time it was going to take me to go through all twenty-seven koans. 
+* Estimating how much time it was going to take me to go through all twenty-seven koans. To be honest, I may have estimated a bit too *optimistically...*
 * 
 
 ## TIL
-- How a **press release** can be utilized to give a more formal & well-polished feel to say a landing page that was built for a client. 
-- **Discovery Meeting:** *A form of investigative meeting used by consultants to learn more about a project's requirements.* 
+
+### Business 
+* How a **press release** can be utilized to give a more formal & well-polished feel to say a landing page that is being built for a client. 
+* **Discovery Meeting:** *A form of investigative meeting used by consultants to learn more about a project's requirements.* 
+
+### Poker
+* Yes, Texas Hold'em is a great variant of poker, but I am referring to the poker app I used earlier today with Micah. 
+  * For all user stories: Always provide **three estimates**. [*optimistic* | *realistic* | *pessimistic*] 
+  * The reason for three estimates is because we want to have a holistic approach where we account for all possible risks and so the three *categories* are used to reflect that, i.e. **optimistic** when everything goes perfectly according to plan, **realisitic** a more balanced approach to the expected risks that will occur, **pessimistic** literally everything that can go wrong goes wrong, yikes. 
+  * A user story is expected to be completed in a **single sprint** = one week iteration. 
+  * A *single developer's* max capacity is **9 points** per week (*~36 hours*)
+  * **1 point** is roughly worth a *half day's worth of work, e.g. **morning** or **afternoon*** --> **4 hours**
+  * **PERT** 
+  * >(Program Evaluation and Review Technique): A three point activity estimating technique that considers estimation uncertainity & risk by using three estimates to define an approximate probability for an activity's cost/duration. 
+  * **PERT Formula:** ```PERT estimate = (Optimistic + (4 * Realistic) + Pessimistic)/6```
 
 ## Reflections
 Despite not knowing exactly all the fine details when my team members are sharing during the standup, I have always enjoyed listening to what everyone has done the day before, what their plans are for today, and, if there are any, the obstacles & challenges that they hae been facing. Also, I personally like listening to the business side of Clean Coders as it provides me some insights on how a software consultancy company operates and deals with their clients. 
