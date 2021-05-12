@@ -28,7 +28,7 @@ I am feeling a bit fatigued from today's session mostly from not taking breaks i
 ## Today's Tasks
 
 1. Playing [poker!](https://poker.cleancoders.com/) - A user story estimate tool developed at Clean Coders.  
-2. Met up with Gina. 
+2. Met up with Gina - Dang, what can I say besides the fact that it was an awesome & enjoyable experience to talk to Gina and get to know her. It is nice to have a fellow apprentice who is ahead of me and is someone I can have a discussion with and ask questions to. Also, I am thankful for having her spend the time to walk me through the koan that was dealing with functions. Through that process I was able to gain a better understanding of how functions work as *first class citizens* and as *HOFs*. (Thanks Gina!)
 3. Work on Clojure Koans - Based on the computed *mean* from the poker tool I had my timeline in terms of when I should have all of the 27 koans completed by. 
 
 ## Challenges
