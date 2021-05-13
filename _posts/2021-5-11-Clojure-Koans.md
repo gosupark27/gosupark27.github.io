@@ -5,9 +5,9 @@ title: Klojure Coans
 
 ## Opening Thoughts 
 
-Wow, today has been an *intense* day of grinding out the koans. I am happy with my progress so far; however, I'm slowly but surely realizing how much depth there is to Clojure's deceptively simple nature as I work through the koans. Of course, on the other hand, the *simple nature* can also be described as to be **elegant**. Furthermore, I have enjoyed how Clojure has a mathematical aspect that is based on **lambda calculus**. Hopefully, as I continue to delve deeper into Clojure, I'll be able to make more connections and through the process gain a deeper appreciation for Clojure.  
+Wow, today has been an *intense* day of grinding out the koans. I am happy with my progress so far; however, I'm slowly but surely realizing how much depth there is to Clojure's deceptively simple nature. Of course, on the other hand, the *simple nature* can be viewed as an **elegant** approach to solving problems. Anyways, it's cool to see how Clojure is based on **lambda calculus**. Sounds daunting and complex but hopefully as I gain more experience working with Clojure I'll be able to see how *lambda calculus* has influenced the design of the language. 
 
-As I have mentioned before in my previous post, the [Clojure docs](https://clojuredocs.org/core-library) are clutch and a valuable resource when it comes to solving the koans. The provided examples and *syntax(?)* are helpful in deciphering & understanding how to apply them correctly.
+As I have mentioned before in my previous post, the [Clojure docs](https://clojuredocs.org/core-library) are clutch and a valuable resource when it comes to solving the koans. 
 
 *e.g. **syntax** for the **loop***  
 
@@ -23,13 +23,13 @@ As I have mentioned before in my previous post, the [Clojure docs](https://cloju
 ;;=> 10 8 6 4 2
 ```
 
-I am feeling a bit fatigued from today's session mostly from not taking breaks in-between. My propensity, *whether for better or worse*, is that once I get started on something I am invested in, I want to maintain that momentum at full steam. So, unsurprisingly, it can be difficult for me to pump the brakes at times. With that being said, it is essential to take a pause and give myself ample time to recover in order to be ready for the *next sprint*. Anyways, let's move on to the next sections. 
+In other news, I am feeling a bit fatigued from today's session - mostly from not taking breaks in-between. My propensity, *whether for better or worse*, is that once I get invested in something that I enjoy, I go all out. So, unsurprisingly, it can be difficult for me to pump the brakes at times. With that being said, it is essential to take a pause and give myself time to recover. 
 
 ## Today's Tasks
 
 1. Playing [poker!](https://poker.cleancoders.com/) - A user story estimate tool developed at Clean Coders.  
-2. Met up with Gina - Dang, what can I say besides the fact that it was an awesome & enjoyable experience to talk to Gina and get to know her. It is nice to have a fellow apprentice who is ahead of me and is someone I can have a discussion with and ask questions to. Also, I am thankful for having her spend the time to walk me through the koan that was dealing with functions. Through that process I was able to gain a better understanding of how functions work as *first class citizens* and as *HOFs*. (Thanks Gina!)
-3. Work on Clojure Koans - Based on the computed *mean* from the poker tool I had my timeline in terms of when I should have all of the 27 koans completed by. 
+2. Met up with Gina - Dang, what can I say besides the fact that it was an awesome & enjoyable experience. Being able to talk to a fellow apprentice just has a different feel to it. Also, it is great that she is ahead of me, and has already been through a lot of the apprenticeship because if I ever feel frustrated or stuck I know that I have someone to talk to. During the video call we both talked about ourselves and got to know each other better. Ooh yeah also Gina graciously helped me with the functions koan that I was struggling with and saved me a lot of time & banging my head against the wall. _Thanks Gina!_
+3. Work on Clojure Koans - Now, I have a deadline that is based on the computed *mean* from the poker app.
 
 ## Challenges
 * Estimating how much time it was going to take me to go through all twenty-seven koans. To be honest, I may have estimated a bit too *optimistically...*
