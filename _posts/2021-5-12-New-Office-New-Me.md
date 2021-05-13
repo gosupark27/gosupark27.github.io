@@ -3,8 +3,6 @@ layout: post
 title: New Office New Me
 ---
 
-Consider why you underestimated.  What was harder than you thought?  What slowed you down?
-
 ## Let's Talk Office
 
 Yesterday, I moved my home computer, chair and a couple of other belongings into my new office. Of course, making this move is a **risk** because there is no guarantee that the apprenticeship is going to work out and that's a decent amount of money I could have saved if I worked at home instead. However, from my experience there are certain moments in your life where you have to be willing to accept that risk and go all-in because this can be an opportunity that comes only once in your life. There have been times in the past where I have let those chances slip past my fingers because I was fearful or I was unwilling to adapt to the changing circumstances. Even now learning Clojure, a new languge, has been both rewarding and challenging these past couple of days. It is an opportunity for me to grow as a developer and because Clojure has a different programming paradigm learning and becoming proficient in this language will improve the way I approach problems and consequently how I would solve those particular problems. Ultimately, the office represents a space where I can focus completely on the apprenticeship, and for that reason alone it was and is worth the investment. 
