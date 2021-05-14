@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Blog Post
+title: Interesting Blog Title Here
 ---
 
 ## Week 1 <span>&#10003;</span>
@@ -26,6 +26,7 @@ Filler Text
         - On the other hand, a _seq_ needs to **first traverse itself** to get its `count`
     2. **seqs** can be _lazy_, whereas **lists** cannot
     3. **seqs** can be _infinite_, thus **uncountable**; whereas, **lists** are always _countable_
+- The _difference_ between functions **cons(seq)** and a **conj(list)**
 
 
 ## Looking forward to the weekend and...Week 2
