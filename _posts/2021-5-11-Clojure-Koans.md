@@ -71,8 +71,8 @@ In other news, I am feeling a bit fatigued from today's session - mostly from no
 - 
 
 ## Reflections
-Despite not knowing exactly all the fine details when my team members are sharing during the standup, I have always enjoyed listening to what everyone has done the day before, what their plans are for today, and, if there are any, the obstacles & challenges that they hae been facing. Also, I personally like listening to the business side of Clean Coders as it provides me some insights on how a software consultancy company operates and deals with their clients. 
+Despite not knowing the fine details of what is being discussed during the standups, I am ejoying hearing everybody share about what they did yesterday, what their plans are for today, and, if there are any, obstacles & challenges they are facing. Also, I have fun listening to the business side of Clean Coders - there are useful insights to how a software consultancy company operates and deals with their clients. 
 
-Furthermore, there is a lot more that I wrote down on my notes in terms of the challenges, things I learned today, etc. but if I tried to write all of it down I think my blog post will become too long & it would take too long to write all of it down. However, so far I found writing to be extremely beneficial and I am planning to continue to write a post on a daily basis. 
+I realize that it will be difficult to fit *everything* I did on the post, so I have to choose the ones that have made the **biggest** impact on me. All said and done, writing these blog posts have been rewarding and a great way for me to reflect on my day.
 
-In the end, I am immensely grateful for this opportunity to be an apprentice under Micah and be working for Clean Coders. My biggest desire is to be able to take full advantage of the resources and opporunities that are in front of me, so that I can become the best version of myself. Whether that is in the form of becoming a craftsman, son, or older brother. 
+In the end, I'm lucky to have Micah as my mentor and be a part of Clean Coders Studio. I will strive to push myself to become the best I can be whether that is becoming a better software craftsman, brother, or son. 
