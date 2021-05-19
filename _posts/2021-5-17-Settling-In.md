@@ -5,7 +5,7 @@ title: Settling In
 
 ## Visiting Micah
 
-Today, I went over to Micah's to borrow some books on Clojure. Let's just say that it was a pleasant surprise when I pulled up to his place but I tried my best to act neutral. The views of the mountains are amazing and it was awesome to have a look at ~~Micah's office~~. I am looking forward to going through the books and getting a deeper understanding of the ever-so _enigmatic_ Clojure. 
+Today, I went over to Micah's to borrow some books on Clojure. Let's just say that it was a pleasant surprise when I pulled up to his place but I tried my best to act neutral. The views of the mountains are amazing and it was awesome to have a look at Micah's ~~man cave~~ office. I am looking forward to going through the books and getting a deeper understanding of the ever-so _enigmatic_ Clojure. 
 
 ## Today's Tasks 
 1. Finish Euler #2
