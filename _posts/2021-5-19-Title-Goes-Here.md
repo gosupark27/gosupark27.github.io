@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Interesting Blog Title Here
+title: IntelliJ Hotkeys & Bowling 
 ---
 
 ## Opener (Can be anything) 
 
 ## Today's Tasks
+1. Bowling Game Kata 
+2. Euler #4
 
 ## Challenges
 
@@ -20,9 +22,7 @@ title: Interesting Blog Title Here
 | **`ctrl+g`**  | Go To Line:Column  |
 | **`ctrl+shift+d`**  | Duplicate Entire Lines _(custom)_  |
 | **`ctrl+d`**  | Duplicate Line/Selection  |
-
-
-
+| **`ctrl+shift+right`**  | Split Vertically _(custom)_  |
 
 ## Euler
 
