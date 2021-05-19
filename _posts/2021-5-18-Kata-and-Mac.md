@@ -43,4 +43,4 @@ user=> (rem -10 3)
 
 ## Looking Ahead
 
-I have been pretty consistent in waking up around _4:00 - 4:15_ and getting to the office around _5:15_, which has been nice in getting some work done early and starting off the day with have a couple of productive hours before the standup. However, I need to do a better job in making sure that I get enough sleep and also while I'm at the office I don't get too distracted by other things and be able to get through my daily tasks/action items. 
+I have been pretty consistent in waking up around _4:00 - 4:15_ and getting to the office around _5:15_. It has been nice getting some work done and being productive before the standup. Although I have been getting up early, I need to do a better job in getting enough sleep and staying focused on getting through my daily tasks. 
