@@ -71,7 +71,9 @@ In the end, I have learned a decent amount just from solving this one problem, a
 * Converting the **digit** `-->` **string** `-->` **vector** -- essentially, figuring this part out was new to me and an interesting way of approaching the problem. 
 
 ## TIL
+
 ### IntelliJ Shortcuts
+
 | Shortcut  | Action |
 | ------------- | ------------- |
 | **`ctrl + tab`**  | Switch between tabs  |
