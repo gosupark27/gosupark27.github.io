@@ -75,7 +75,7 @@ In the end, I have learned a decent amount just from solving this one problem, a
 ### IntelliJ Shortcuts
 
 | Shortcut  | Action |
-| ------------- | ------------- |
+|----|---|
 | **`ctrl + tab`**  | Switch between tabs  |
 | **`alt + enter`**  | Show Context Actions  |
 | **`ctrl + alt + l`**  | Reformat Code  |
