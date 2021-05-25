@@ -18,11 +18,17 @@ Overall, I'm happy to see that I'm getting settled in with my daily schedule (wa
 ## Challenges
 
 ### Euler
+- My **_primality test_** had some issues which resulted in finding the **10,000th** because it was counting 0 and 1 as primes when I used my method for filtering out primes. 
 
 ### Kata
+- Transitioning from linux mint to mac for the live performance - Need to figure out the different shortcuts & get comfortable navigating 
 
 ## TIL
-
+- The sum of integers from _1 to n_ is `[n(n + 1)]/2` (**Euler #6**)
+- A **prime sieve** is a fast type of algorithm used for finding primes (**Euler #7**)
+  - _**Prime sieve:**_ Creates a list of all integers up to a **desired limit** & progressively removes **_composite numbers_**until only primes are left (**Euler #7**)
+- Converting a 100 length digit into a collection of characters using `(vec (str n))` (**Euler #8** )
+  - Then using `(partition 13 1 coll)` to grab all **thirteen adjacents** digits   
 
 
 ## Chicago
