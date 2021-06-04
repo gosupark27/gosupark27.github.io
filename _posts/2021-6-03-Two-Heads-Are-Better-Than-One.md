@@ -9,7 +9,13 @@ Wow, what a fun, great experience to pair up with Gina to work on Euler #9. Desp
 
 ## Today's Tasks
 
+* Pair programming w/Gina!
+  *  Euler #9
+
 ## Challenges
+
+* Being faithful to the **three fundamentals of TDD**
+* 
 
 ## TIL
 
