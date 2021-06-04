@@ -15,6 +15,9 @@ Wow, what a fun, great experience to pair up with Gina to work on Euler #9. Desp
 ## Challenges
 
 * Being faithful to the **three fundamentals of TDD**
+![TDD_Screenshot](https://user-images.githubusercontent.com/59072282/120832279-52dafb00-c515-11eb-86b8-56dd805950ce.png)
+
+
 * 
 
 ## TIL
