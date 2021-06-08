@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not a goodbye but see ya later, Chicago! 
+title: Farewell Chicago! 
 ---
 
 ## Chicago Day 5 - FINAL DAY 
