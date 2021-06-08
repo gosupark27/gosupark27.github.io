@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gold Coast
+title: Started From The Bottom Now We Here
 ---
 
 ## Chicago Days 4
@@ -18,7 +18,7 @@ Boba
 Grind (Work) 
 Enso Sushi (Never coming here again haha...)
 Jeni's Ice Cream (deepest choco too good) 
-Rooftop Bar (Chicgo is diff) 
+Rooftop Bar (Chicgo is diff - also SKYLINE is amazing to look at during the night time & also we at the TOP HAHA) 
 ```
 
 ## Today's Tasks
