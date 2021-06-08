@@ -20,21 +20,15 @@ routine.
 
 ## Today's Tasks
 1. Read some _Joy of Clojure_
-2. Euler #9 
-3. Work on bowling game kata
+2. Work on bowling game kata
+3. Iteration meeting with Micah
 
-## Challenges
+## Reflection 
 
-### Euler
-- 
-
-
-### Kata
+I feel like I have already said this before in a different blog post and if that is the case I would like to emphasis again how rewarding it is to practice/rehearse the kata multiple times because I am often reminded of a small detail that can be improved upon while going through the kata. I believe this is my second time having an iteration meeting with Micah, so I was not exactly sure how the flow of the iteration meeting would go and how I should be preparing for it. Anyways, it has been fun perusing through the _Joy of Clojure_ and if I am being honest there are some sections where it goes over my head, but I am hoping that as I continue my apprenticeship I can go back to those perplexing section and be able to find new clarity and understanding instead. 
 
 
-## TIL 
-
-## Day 4 Chicago 
+## Looking Ahead: Day 4 Chicago 
 
 Wow, what can I say besides the fact that I think Chicago is a vibrant city full of wonderful things to do and it has such a diverse set of options when it comes to food. 
 Tomorrow we are planning to go to Chinatown to have some dimsum and then either hit up Oak Street Beach again or go to a rooftop bar to soak in the skyline & chill. 
