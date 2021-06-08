@@ -1,6 +1,6 @@
 ---
-layout:post
-title: Overpromise, Underdeliver 
+layout: post
+title: Overpromise, Underdeliver
 ---
 
 ## Wait, I thought it was underpromise, overdeliver? 
